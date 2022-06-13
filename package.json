@@ -1,0 +1,10 @@
+{
+  "name": "open-collected-site",
+  "version": "0.0.1",
+  "description": "A chrome extension for opening collected site.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sherlinz0",
+  "license": "GPL-3.0"
+}
