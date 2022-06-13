@@ -1,0 +1,10 @@
+{
+  "name": "open-collected-site",
+  "description": "open a new tab towards the collected site!",
+  "version": "0.0.1",
+  "manifest_version": 3,
+
+  "action": {
+    "default_icon": "./asset/icon/extension_main.png"
+  }
+}
