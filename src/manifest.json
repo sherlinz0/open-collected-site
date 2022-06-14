@@ -5,6 +5,9 @@
   "manifest_version": 3,
 
   "action": {
-    "default_icon": "./asset/icon/extension_main.png"
-  }
+    "default_icon": "./asset/icon/extension_main.png",
+    "default_popup": "./page/popup/index.html"
+  },
+  "options_page": "./page/options/index.html",
+  "permissions": ["storage"]
 }
