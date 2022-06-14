@@ -1,0 +1,27 @@
+.setting_header {
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 0;
+  padding: 0 5px;
+}
+
+.setting {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  
+  padding: 10px;
+}
+
+select {
+  padding: 2px;
+}
+
+option {
+  font-size: 15px;
+}
+
+
+.operators {
+  padding: 10px;
+}
