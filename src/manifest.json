@@ -4,6 +4,9 @@
   "version": "0.0.1",
   "manifest_version": 3,
 
+  "background": {
+    "service_worker": "./func/background.js"
+  },
   "action": {
     "default_icon": "./asset/icon/extension_main.png",
     "default_popup": "./page/popup/index.html"
